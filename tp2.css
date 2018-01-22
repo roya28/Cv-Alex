@@ -1,0 +1,9 @@
+body {
+	background-image: url("http://napoleonbonaparte.be/WordPress3/wp-content/uploads/parchemin.jpeg");
+	background-repeat: no-repeat;
+}
+hr.style2 {
+	border-top: 3px double #8c8b8b;
+}
+ul { list-style-type: none; text-align: center; }
+li::before { content: "\2022 " }
